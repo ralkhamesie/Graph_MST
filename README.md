@@ -1,5 +1,5 @@
 # Graph_MST
-This code was written to complete a project requirement CPCS 324 under the supervision of Dr. Mai Fadel.
+This code was written to complete a project requirement CPCS 324.
 
 Several sources were used to write the code, the most important of which are:
 
