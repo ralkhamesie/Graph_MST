@@ -1,6 +1,8 @@
 # Graph_MST
-This code was written to complete a project requirement CPCS 324 under the supervision of Dr. Mai Fadel.\n
+This code was written to complete a project requirement CPCS 324 under the supervision of Dr. Mai Fadel.
+
 Several sources were used to write the code, the most important of which are:
+
 [1] Levitin, A. (2011). Introduction to the Design and Analysis of Algorithms (3rd ed.). Pearson.
 
 [2] Jain, S. (2019, August 31). Kruskal’s Algorithm – Minimum Spanning Tree (MST) - Complete Java Implementation | TutorialHorizon. Algorithms. https://algorithms.tutorialhorizon.com/kruskals-algorithm-minimum-spanning-tree-mst-complete-java-implementation/
