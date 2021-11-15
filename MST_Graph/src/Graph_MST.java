@@ -603,7 +603,7 @@ public class Graph_MST {
                 } else {
                     //add it to our final result
                     mst.add(edge);
-                    treeVertices += edge.toString() + "\n";
+                    VerticesTree += edge.toString() + "\n";
 //                    System.out.println("\nTree Vertex:");
 //                    System.out.println(VerticesTree);
                     index++;
